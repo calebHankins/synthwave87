@@ -11,3 +11,4 @@ This repo mainly exists so I can revert to a previous config after deciding that
 ## Screenshots
 - ![sunrise_dots](./img/sunrise_dots.png)
 - ![overview](./img/overview.png) 
+- ![overview 2](./img/overview_2.png) 

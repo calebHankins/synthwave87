@@ -39,7 +39,7 @@
 /* Add the subtle gradient to the editor background */
 .monaco-editor {
   background-color: transparent !important;
-  background-image: linear-gradient(to bottom, #011627 75%, #294f4c5b);
+  background-image: linear-gradient(to bottom, #011627 95%, #294f4c5b);
   background-position: top;
   background-repeat: no-repeat;
 } 

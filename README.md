@@ -1,4 +1,4 @@
-# synthwave84 css fork for vscode
+# A Dark blue fork of synthwave84 vscode css
 
 *An Unholy Mashup Of Two Better vscode Themes To Create A Mess Only A Mother Could Love*
 

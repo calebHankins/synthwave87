@@ -9,4 +9,5 @@
 This repo mainly exists so I can revert to a previous config after deciding that it was way better than whatever fresh new hell I came up with.
 
 ## Screenshots
-- ![](./img/2019-05-01T09_49_06.png)
+- ![sunrise_dots](./img/sunrise_dots.png)
+- ![overview](./img/overview.png) 

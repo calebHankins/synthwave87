@@ -31,6 +31,7 @@
   text-shadow: 0 0 2px #393a33, 0 0 35px #ffffff44, 0 0 8px #f39f0575, 0 0 2px #f39f0575;
 }
 
+/* This exposes the gradient configured in the next block */
 .monaco-editor .margin, .monaco-editor-background, .monaco-editor .inputarea.ime-input {
   background: transparent;
 }
@@ -41,7 +42,7 @@
   background-image: linear-gradient(to bottom, #011627 95%, #294f4c5b);
   background-position: top;
   background-repeat: no-repeat;
-} 
+}
 
 /* Sweet sunrise dots */
 .monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {

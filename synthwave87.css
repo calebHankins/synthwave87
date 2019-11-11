@@ -99,7 +99,7 @@
 }
 
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item::after {
-  content: '';
+  content: 'c ya';
   position: absolute;
   bottom: 0px;
   top: 0px;

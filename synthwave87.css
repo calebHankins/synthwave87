@@ -46,12 +46,12 @@
 
 /* Sweet sunrise dots */
 .monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {
-  background: linear-gradient(to bottom, #011627 25%, #fc28a8);
+  background: linear-gradient(to bottom, #011627 25%, #FF00FF);
 }
 
 /* Active tab neon */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active {
-  box-shadow: inset 0 -5px 25px #fc28a825;
+  box-shadow: inset 0 -5px 25px #FF00FF;
   position: relative;
 }
 
@@ -63,7 +63,7 @@
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(to right, #fc28a8, #03edf9) !important;
+  background: linear-gradient(to right, #FF00FF, #03edf9) !important;
   opacity: 1;
   z-index: 6;
 }
@@ -82,7 +82,7 @@
 
 /* Active sidebar item */
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item.checked {
-  box-shadow: inset 0 -5px 25px #fc28a825;
+  box-shadow: inset 0 -5px 25px #FF00FF;
   position: relative;
 }
 
@@ -94,7 +94,7 @@
   left: 0px;
   width: 3px;
   z-index: 1;
-  background: linear-gradient(to bottom, #fc28a8, #03edf9) !important;
+  background: linear-gradient(to bottom, #FF00FF, #03edf9) !important;
   opacity: 1;
 }
 

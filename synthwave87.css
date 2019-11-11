@@ -92,7 +92,8 @@
   bottom: 0px;
   top: 0px;
   left: 0px;
-  width: 4px;
+  width: 3px;
+  z-index: 1;
   background: linear-gradient(to bottom, #fc28a8, #03edf9) !important;
   opacity: 1;
 }

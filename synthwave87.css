@@ -116,3 +116,27 @@
   color: #FF00FF !important;
   filter: brightness(800%) blur(1px) !important;
 }
+
+/* Status bar */
+.monaco-workbench .part.statusbar {
+  background: linear-gradient(to left, #FF00FF, #03edf9) !important;
+}
+
+
+/* Status bar (left items) */
+.monaco-workbench .part.statusbar>.left-items {
+  color: black !important;
+  background: linear-gradient(to left, #FF00FF, #03edf9) !important;
+}
+
+/* Status bar (right items) */
+.monaco-workbench .part.statusbar>.right-items {
+  background: linear-gradient(to right, #FF00FF, #03edf9) !important;
+}
+
+/* Remote-Container statusbar item */
+.monaco-workbench .part.statusbar>.items-container>.statusbar-item.has-background-color.left.first-visible-item,
+.monaco-workbench .part.statusbar>.items-container>.statusbar-item.has-background-color.right.last-visible-item {
+  background: linear-gradient(to right, #FF00FF, #03edf9) !important;
+  color: black !important;
+}

@@ -117,21 +117,25 @@
   filter: brightness(800%) blur(1px) !important;
 }
 
-/* Status bar (left items) */
-.monaco-workbench .part.statusbar>.left-items {
-  color: black !important;
+/* Status bar */
+.monaco-workbench .part.statusbar {
   background: linear-gradient(to left, #FF00FF, #03edf9) !important;
 }
 
-/* Remote-Container statusbar */
+/* Status bar (left items) */
+.monaco-workbench .part.statusbar>.left-items {
+  color: black !important;
+}
+
+/* Remote-Container statusbar (for my setup anyway) */
 .monaco-workbench .part.statusbar>.items-container>.statusbar-item.has-background-color>:first-child {
   color: black !important;
 }
 
 /* Status bar (right items) */
-.monaco-workbench .part.statusbar>.right-items {
+/* .monaco-workbench .part.statusbar>.right-items {
   background: linear-gradient(to right, #FF00FF, #03edf9) !important;
-}
+} */
 
 /* Remote-Container statusbar item */
 .monaco-workbench .part.statusbar>.items-container>.statusbar-item.has-background-color.left.first-visible-item,

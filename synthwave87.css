@@ -119,7 +119,9 @@
 
 /* Status bar */
 .monaco-workbench .part.statusbar {
-  background: linear-gradient(to left, #FF00FF, #03edf9);
+  background: linear-gradient(to  bottom, #FF00FF, #03edf9);
+  /* background: linear-gradient(to bottom right, #FF00FF, #03edf9); */
+  /* filter: brightness(200%)  ; */
 }
 
 /* little strip above status bar */
@@ -129,18 +131,24 @@
 
 /* Status bar (left items) */
 .monaco-workbench .part.statusbar>.left-items {
-  color: black !important;
+  /* color: #FF00FF !important; */
+  /* color: black; */
+  color: #03edf9 !important;
+  /* filter: brightness(200%)  ; */
 }
 
 /* Remote-Container statusbar (for my setup anyway) */
 .monaco-workbench .part.statusbar>.items-container>.statusbar-item.has-background-color>:first-child {
-  color: black !important;
+  /* color: #FF00FF !important; */
+  color: #03edf9 !important;
 }
 
 /* Status bar (right items) */
-/* .monaco-workbench .part.statusbar>.right-items {
-  background: linear-gradient(to right, #FF00FF, #03edf9) !important;
-} */
+.monaco-workbench .part.statusbar>.right-items {
+  /* background: linear-gradient(to right, #FF00FF, #03edf9) !important; */
+  color: #03edf9 !important;
+  /* filter: brightness(75%) ; */
+}
 
 /* Remote-Container statusbar item */
 .monaco-workbench .part.statusbar>.items-container>.statusbar-item.has-background-color.left.first-visible-item,

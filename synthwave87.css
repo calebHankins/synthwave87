@@ -52,7 +52,7 @@
 
 .monaco-workbench .part.titlebar {
   color: #03edf9 !important;
-  box-shadow: inset 0 -5px 25px #03edf9 ;
+  box-shadow: inset 0 -5px 25px #03edf9;
   /* border-bottom: 1px linear-gradient(to left, #FF00FF, #03edf9) !important; */
   border-bottom: 1px solid #FF00FF !important;
   /* border-bottom: 1px solid linear-gradient(to left, #FF00FF, #03edf9) !important; */
@@ -78,6 +78,20 @@
   box-shadow: inset 0 -5px 25px #FF00FF;
   position: relative;
   color: #03edf9 !important;
+}
+
+/* Active tab c ya */
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active .monaco-icon-label::after {
+  content: '';
+  opacity: 1;
+}
+
+/* Inactive tab c ya */
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit .monaco-icon-label::after {
+  content: 'c ya';
+  color: white;
+  transition: all 1s ease-out !important;
+  opacity: 0;
 }
 
 /* Active tab stripe */

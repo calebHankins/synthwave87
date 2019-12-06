@@ -50,10 +50,18 @@
   background: linear-gradient(to bottom, #011627 25%, #FF00FF);
 }
 
+/* Active editor tab label (text) */
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active .monaco-icon-label {
+  cursor: pointer;
+  color: #03edf9 !important;
+  /* color: rbg(137,	212	,248	) !important; */
+}
+
 /* Active tab neon */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active {
   box-shadow: inset 0 -5px 25px #FF00FF;
   position: relative;
+  color: #03edf9 !important;
 }
 
 /* Active tab stripe */
@@ -135,6 +143,7 @@
   /* color: #FF00FF !important; */
   /* color: black; */
   color: #03edf9 !important;
+  /* color: white !important; */
   /* filter: brightness(200%)  ; */
 }
 
@@ -142,12 +151,14 @@
 .monaco-workbench .part.statusbar>.items-container>.statusbar-item.has-background-color>:first-child {
   /* color: #FF00FF !important; */
   color: #03edf9 !important;
+  /* color: white !important; */
 }
 
 /* Status bar (right items) */
 .monaco-workbench .part.statusbar>.right-items {
   /* background: linear-gradient(to right, #FF00FF, #03edf9) !important; */
   color: #03edf9 !important;
+  /* color: white !important; */
   /* filter: brightness(75%) ; */
 }
 

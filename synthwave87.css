@@ -39,7 +39,7 @@
 /* Comments */
 .mtk11 {
   color: #FF00FF;
-  text-shadow: 1px 1px 1px black, 0 0 1em #03edf9, 0 0 0.2em black ;
+  text-shadow: 1px 1px 1px black, 0 0 1em black, 0 0 1em #03edf9;
   /* text-shadow: 1px 1px 1px black, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */
   /* text-shadow: 1px 1px 1px blueviolet, 0 0 1em blueviolet , 0 0 0.2em blueviolet; */
   /* text-shadow: 1px 1px 1px purple, 0 0 1em purple, 0 0 0.2em black; */

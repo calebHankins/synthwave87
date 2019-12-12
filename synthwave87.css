@@ -89,6 +89,8 @@
 /* Inactive tab c ya */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit .monaco-icon-label::after {
   content: 'c ya';
+  position: absolute;
+  left: 70%;
   color: white;
   transition: all 1s ease-out !important;
   opacity: 0;

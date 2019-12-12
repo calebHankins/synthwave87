@@ -31,6 +31,20 @@
   text-shadow: 0 0 2px #393a33, 0 0 35px #ffffff44, 0 0 8px #f39f0575, 0 0 2px #f39f0575;
 }
 
+/* comments */
+.mtk11 {
+  color: #FF00FF;
+  text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em black;
+ /* color: #E093F6; */
+ /* text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue; */
+ /* background-color: #03edf9 ; */
+ /* box-shadow: inset  0px 0px 5px #03edf9; */
+ /* text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue; */
+ /* text-shadow: 1px 1px 2px #FF00FF, 0 0 1em #03edf9, 0 0 0.2em #03edf9; */
+ /* text-shadow: 1px 1px 2px #03edf9, 0 0 1em #03edf9, 0 0 0.2em #03edf9; */
+
+}
+
 /* This exposes the gradient configured in the next block */
 .monaco-editor .margin,
 .monaco-editor .inputarea.ime-input {

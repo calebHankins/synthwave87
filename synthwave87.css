@@ -33,8 +33,10 @@
 
 /* comments */
 .mtk11 {
-  color: #E093F6;
-  text-shadow: 1px 1px 1px red, 0 0 1em red, 0 0 0.2em black;
+  color: #FF00FF;
+  text-shadow: 1px 1px 1px black, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF;
+  /* text-shadow: 1px 1px 1px blueviolet, 0 0 1em blueviolet , 0 0 0.2em blueviolet; */
+  /* text-shadow: 1px 1px 1px purple, 0 0 1em purple, 0 0 0.2em black; */
   /* color: #FF00FF; */
   /* color: #62005D; */
   /* text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue; */

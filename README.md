@@ -12,8 +12,8 @@ Stylesheet to tweak the cool [Winter is Coming (Dark Blue)](https://marketplace.
 
 
 - ![sunrise_dots](./img/sunrise_dots.png)
-- ![overview](./img/overview.png) 
-- ![overview 2](./img/overview_2.png) 
+- ![overview](./img/overview.png)
+- ![overview 2](./img/overview_2.png)
 
 
 ## How

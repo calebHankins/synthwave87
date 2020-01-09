@@ -31,8 +31,6 @@
 /* Things like code blocks in markdown files (commands and whatnot) */
 .mtk8 {
   color: #72f1b8;
-  /* text-shadow: 0 0 2px #100c0f, 0 0 10px #257c5575, 0 0 35px #21272475; */
-  /* text-shadow: 0 0 2px #100c0f, 0 0 35px #72f1b8, 0 0 35px #21272475; */
   text-shadow: 1px 1px 1px #72f1b8, 0 0 1em #72f1b8, 0 0 0.2em #72f1b8;
 }
 
@@ -44,7 +42,8 @@
 /* Comments */
 .mtk11 {
   color: #FF00FF;
-  text-shadow: 1px 1px 1px #FF00FF, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF;
+  text-shadow: 0px 0px 0px #FF00FF, 0 0 1em #FF00FF, 0 0 1em #FF00FF
+  /* text-shadow: 1px 1px 1px #FF00FF, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */
   /* text-shadow: 1px 1px 1px black, 0 0 1em black, 0 0 0.5em #03edf9; */
   /* font-weight: normal !important; */
   /* text-shadow: 1px 1px 1px black, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */

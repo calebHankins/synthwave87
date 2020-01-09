@@ -6,12 +6,13 @@
 /* Headers for markdown files */
 .mtk4 {
   color: #79C6FA;
-  text-shadow: 1px 1px 1px #03edf9, 0 0 1em #03edf9, 0 0 0.2em #03edf9;
-  /* text-shadow: 1px 1px 1px black, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */
+  text-shadow: 0px 0px 0px #03edf9, 0 0 1em #03edf9, 0 0 1em #03edf9
+    /* text-shadow: 1px 1px 1px #03edf9, 0 0 1em #03edf9, 0 0 0.2em #03edf9; */
+    /* text-shadow: 1px 1px 1px black, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */
 
-  /* color: #FF00FF; */
-  /* color: #03edf9; */
-  /* color: #6d77b3; */
+    /* color: #FF00FF; */
+    /* color: #03edf9; */
+    /* color: #6d77b3; */
 }
 
 .mtk5 {
@@ -43,20 +44,20 @@
 .mtk11 {
   color: #FF00FF;
   text-shadow: 0px 0px 0px #FF00FF, 0 0 1em #FF00FF, 0 0 1em #FF00FF
-  /* text-shadow: 1px 1px 1px #FF00FF, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */
-  /* text-shadow: 1px 1px 1px black, 0 0 1em black, 0 0 0.5em #03edf9; */
-  /* font-weight: normal !important; */
-  /* text-shadow: 1px 1px 1px black, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */
-  /* text-shadow: 1px 1px 1px blueviolet, 0 0 1em blueviolet , 0 0 0.2em blueviolet; */
-  /* text-shadow: 1px 1px 1px purple, 0 0 1em purple, 0 0 0.2em black; */
-  /* color: #FF00FF; */
-  /* color: #62005D; */
-  /* text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue; */
-  /* background-color: #03edf9 ; */
-  /* box-shadow: inset  0px 0px 5px #03edf9; */
-  /* text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue; */
-  /* text-shadow: 1px 1px 2px #FF00FF, 0 0 1em #03edf9, 0 0 0.2em #03edf9; */
-  /* text-shadow: 1px 1px 2px #03edf9, 0 0 1em #03edf9, 0 0 0.2em #03edf9; */
+    /* text-shadow: 1px 1px 1px #FF00FF, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */
+    /* text-shadow: 1px 1px 1px black, 0 0 1em black, 0 0 0.5em #03edf9; */
+    /* font-weight: normal !important; */
+    /* text-shadow: 1px 1px 1px black, 0 0 1em #FF00FF, 0 0 0.2em #FF00FF; */
+    /* text-shadow: 1px 1px 1px blueviolet, 0 0 1em blueviolet , 0 0 0.2em blueviolet; */
+    /* text-shadow: 1px 1px 1px purple, 0 0 1em purple, 0 0 0.2em black; */
+    /* color: #FF00FF; */
+    /* color: #62005D; */
+    /* text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue; */
+    /* background-color: #03edf9 ; */
+    /* box-shadow: inset  0px 0px 5px #03edf9; */
+    /* text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue; */
+    /* text-shadow: 1px 1px 2px #FF00FF, 0 0 1em #03edf9, 0 0 0.2em #03edf9; */
+    /* text-shadow: 1px 1px 2px #03edf9, 0 0 1em #03edf9, 0 0 0.2em #03edf9; */
 }
 
 /* variable keywords like 'const' in javascript */
@@ -72,10 +73,10 @@
 } */
 
 /* function calls */
-.mtk27{
+.mtk27 {
   /* color: #87aff4; */
   color: #03edf9;
-  text-shadow: 1px 1px 1px #03edf9, 0 0 1em #03edf9, 0 0 0.2em #03edf9;
+  text-shadow: 0px 0px 0px #03edf9, 0 0 1em #03edf9, 0 0 1em #03edf9
 }
 
 /* This exposes the gradient configured in the next block */

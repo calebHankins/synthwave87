@@ -32,7 +32,7 @@
 /* Things like code blocks in markdown files (commands and whatnot) */
 .mtk8 {
   color: #72f1b8;
-  text-shadow: 1px 1px 1px #72f1b8, 0 0 1em #72f1b8, 0 0 0.2em #72f1b8;
+  text-shadow: 0px 0px 0px #72f1b8, 0 0 1em #72f1b8, 0 0 1em #72f1b8;
 }
 
 .mtk9 {

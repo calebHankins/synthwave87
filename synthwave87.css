@@ -219,7 +219,8 @@
   /* transition: all 1s; */
   /* box-shadow: none; */
   /* transition: all 1s ease-out; */
-  transition: all 1s ease-in-out;
+  /* transition: all 1s ease-in-out; */
+  transition: opacity 1s ease-in-out;
   opacity: 0;
 }
 

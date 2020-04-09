@@ -203,13 +203,13 @@
   z-index: 1;
   background: linear-gradient(to bottom, #FF00FF, #03edf9) ;
   opacity: 1;
-  /* transition: all 1s ease-in-out; */
+  transition: all 1s ease-in-out;
   /* box-shadow: none; */
 }
 
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item::after {
   content: 'c ya';
-  position: absolute ;
+  position: absolute;
   bottom: 0px;
   top: 0px;
   left: 0px;

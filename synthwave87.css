@@ -195,7 +195,7 @@
 
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item.checked::after {
   content: '' ;
-  position: absolute !important;
+  position: absolute;
   bottom: 3px;
   top: -1px;
   left: 0px ;
@@ -220,7 +220,10 @@
   /* box-shadow: none; */
   /* transition: all 1s ease-out; */
   /* transition: all 1s ease-in-out; */
-  transition: opacity 2s ease-in-out;
+  /* transition: opacity 2s ease-in-out; */
+  /* color: white; */
+  /* transition: all 1s ease-in-out !important; */
+  transition: opacity 2s ease-in-out !important;
   opacity: 0;
 }
 

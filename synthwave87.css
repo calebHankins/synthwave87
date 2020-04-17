@@ -296,3 +296,9 @@
   /* font-family: Menlo, Monaco, 'Courier New', monospace; */
   /* font-size: 12px; */
 }
+
+/* More statusbar item coverage */
+.monaco-workbench .part.statusbar>.items-container>.statusbar-item>:first-child  {
+  color: #03edf9 !important;
+  text-shadow: 0px 0px 0px #03edf9, 0 0 1em #03edf9, 0 0 1em #03edf9;
+}

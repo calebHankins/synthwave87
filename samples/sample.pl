@@ -7,6 +7,7 @@
 # * This is a highlighted comment
 # ? Is this a question comment?
 # TODO: write a todo comment
+# # This is a double comment
 
 use strict;
 use warnings;

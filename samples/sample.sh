@@ -1,5 +1,4 @@
-# Sample file to test css
-
+#!/usr/bin/env bash
 # Shout out to Better Comments https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 # This is a regular comment
 # ! This is an important comment
@@ -7,12 +6,11 @@
 # ? Is this a question comment?
 # TODO: write a todo comment
 # # This is a double comment
-Emoji: 👋
-Count: 0
-Array:
-  - -c
-  - echo Container started ; while sleep 1; do :; done
-bool: true
-"!bool": false
-nested:
-  hey: there
+
+SALUTATION=Hello
+TIME=`date`
+WHO=`whoami`
+
+echo "${SALUTATION}, $WHO!" It is $TIME 👋
+
+exit

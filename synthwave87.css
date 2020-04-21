@@ -60,6 +60,16 @@
     /* text-shadow: 1px 1px 2px #03edf9, 0 0 1em #03edf9, 0 0 0.2em #03edf9; */
 }
 
+/* // Strike Comments */
+.monaco-editor .ced-1-TextEditorDecorationType12-1 {
+  color: #FFFFFF !important;
+}
+
+/* # Pound Comments */
+/* .monaco-editor .ced-1-TextEditorDecorationType17-1 {
+  color: rgb(5, 5, 5) !important;
+} */
+
 /* variable keywords like 'const' in javascript */
 /* .mtk25 {
   color: #00bff9;

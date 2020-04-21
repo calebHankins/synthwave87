@@ -1,0 +1,18 @@
+/* Sample file to test css */
+
+/* Shout out to Better Comments https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments */
+/* This is a regular comment */
+/* ! This is an important comment */
+/* * This is a highlighted comment */
+/* ? Is this a question comment? */
+/* TODO: write a todo comment */
+/* // This is a strike comment */
+/* # This is a pound comment */
+
+/* Active sidebar item */
+.monaco-workbench .activitybar>.content .monaco-action-bar .action-item.checked {
+  box-shadow: inset 0px 0px 20px #FF00FF;
+  position: relative;
+  text-shadow: 1px 1px 1px #03edf9, 0 0 1em #03edf9, 0 0 1em #03edf9;
+  transition: all .5s ease-in-out;
+}

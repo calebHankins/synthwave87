@@ -6,7 +6,8 @@
 // * This is a highlighted comment
 // ? Is this a question comment?
 // TODO: write a todo comment
-// // This is a double comment
+// // This is a strike comment */
+// # This is a pound comment
 
 String salutation = 'Hello'
 String who = returnTrimmedCommandOutput('whoami')

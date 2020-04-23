@@ -7,7 +7,8 @@ const os = require('os')
 // * This is a highlighted comment
 // ? Is this a question comment?
 // TODO: write a todo comment
-// // Double comment
+// // This is a strike comment */
+// # This is a pound comment
 
 /** Print a welcome message
  * @param {Object} greeting

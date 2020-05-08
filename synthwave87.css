@@ -252,10 +252,10 @@
 }
 
 /* update lightbulb */
-.codicon-lightbulb {
+.codicon-lightbulb, .codicon-light-bulb  {
   /* color : #03edf9 !important; */
   color: #FF00FF !important;
-  filter: brightness(800%) blur(1px) !important;
+  filter: brightness(1000%) blur(1.5px) !important;
 }
 
 /* Status bar */

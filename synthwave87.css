@@ -1,3 +1,9 @@
+
+/* Adding a default glow to TextEditorDecorationType classes */
+*[class*="TextEditorDecorationType"] {
+  text-shadow: 0px 0px 0px #03edf9, 0 0 1em #03edf9, 0 0 1em #03edf9;
+}
+
 .mtk3 {
   color: #f92aad;
   text-shadow: 0 0 2px #100c0f, 0 0 5px #dc078e33, 0 0 10px #fff3;

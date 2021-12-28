@@ -207,6 +207,22 @@
   z-index: 6;
 }
 
+/* Active tab stripe post 1.62.3 */
+.monaco-workbench .activitybar > .content :not(.monaco-menu) > .monaco-action-bar .action-item.checked .active-item-indicator:before {
+  /* content: ''; */
+  /* position: absolute; */
+  /* bottom: -1px; */
+  /* left: 0; */
+  /* right: 0; */
+  /* height: 2px; */
+  /* background: linear-gradient(to right, #FF00FF, #03edf9) !important; */
+  /* border-left-color: linear-gradient(to right, #FF00FF, #03edf9) !important; */
+  border-left-color: #FF00FF;
+  /* border-left-color: transparent; */
+  /* opacity: 0; */
+  /* z-index: 6; */
+}
+
 /* Active sidebar item */
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item.checked {
   box-shadow: inset 0px 0px 20px #FF00FF;
